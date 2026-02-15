@@ -35,3 +35,10 @@ Testing was performed after local environment setup using Node.js.
 
 ## Result
 Testing revealed logical defects in conditional execution and variable handling that affected message generation consistency.
+
+## Documentation
+- [Technical Specification](./Requirements/Technical_Specification.md)
+- [Assignment Description](./Requirements/Assignment_Description.md)
+- [Test Strategy](./TestStrategy.md)
+- [Test Cases](./TestCases.md)
+- [Bug Reports](./BugReports.md)
