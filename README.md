@@ -42,3 +42,6 @@ Testing revealed logical defects in conditional execution and variable handling 
 - [Test Strategy](./TestStrategy.md)
 - [Test Cases](./TestCases.md)
 - [Bug Reports](./BugReports.md)
+
+- ## Additional Documentation
+- [Original Technical Specification (DOCX)](./Documentation/Original_Technical_Specification.docx)
