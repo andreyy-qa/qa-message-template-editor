@@ -65,3 +65,22 @@ Unknown variable is removed from generated message.
 
 **Severity:** Medium  
 **Priority:** Medium
+
+## BUG-04 – Incorrect Save Behavior
+
+**Environment:**  
+Local setup (Node.js), Chrome browser
+
+**Steps to Reproduce:**
+1. Edit template.
+2. Click Save.
+3. Refresh page.
+
+**Expected Result:**  
+Updated template should persist.
+
+**Actual Result:**  
+Previous template is restored.
+
+**Severity:** Medium  
+**Priority:** High
