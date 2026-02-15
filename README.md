@@ -1,8 +1,5 @@
 # qa-message-template-editor
-Manual QA testing of SPA (React + TypeScript) Message Template Editor
-QA Testing – Message Template Editor
-
-Project Overview
+Manual QA testing of SPA application built with React + TypeScript.
 
 This project contains manual testing documentation for a SPA application built with React and TypeScript.
 Testing was performed after local environment setup using Node.js.
