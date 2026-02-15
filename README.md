@@ -32,3 +32,6 @@ Testing was performed after local environment setup using Node.js.
 - Validation of nested conditional execution
 - Handling of invalid or unknown variables
 - Data persistence and state management
+
+## Result
+Testing revealed logical defects in conditional execution and variable handling that affected message generation consistency.
