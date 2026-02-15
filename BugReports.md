@@ -1,6 +1,6 @@
 # Bug Reports – Message Template Editor
 
----
+
 
 ## BUG-01 – Incorrect Execution of Nested IF-THEN-ELSE
 
@@ -25,7 +25,7 @@ Nested condition inside ELSE branch is executed even when outer IF is true.
 **Severity:** High  
 **Priority:** High
 
----
+
 
 ## BUG-02 – Re-processing of Variable During Message Generation
 
@@ -46,7 +46,7 @@ Variable content is re-processed, leading to incorrect output.
 **Severity:** High  
 **Priority:** Medium
 
----
+
 
 ## BUG-03 – Unknown Variable Removed Instead of Treated as Text
 
