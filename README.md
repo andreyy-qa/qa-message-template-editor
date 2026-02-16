@@ -49,11 +49,11 @@ Testing revealed logical defects in conditional execution and variable handling 
 
 
 ## Test
-- [Test Strategy](./Test_Documentation/TestStrategy.md)
-- [Test Cases](./Test_Documentation/TestCases.md)
-- [Bug Reports](./Test_Documentation/BugReports.md)
-- [Assignment Description](./Requirements/Assignment_Description.md)
-- [Technical Specification](./Requirements/Technical_Specification.md)
+- [Test Strategy](./Test/TestStrategy.md)
+- [Test Cases](./Test/TestCases.md)
+- [Bug Reports](./Test/BugReports.md)
+- [Assignment Description](./Test/Assignment_Description.md)
+- [Technical Specification](./Test/Technical_Specification.md)
 
 
   
