@@ -47,3 +47,4 @@ Testing revealed logical defects in conditional execution and variable handling 
 
 ## Original Documents
 - [Original Technical Specification](./Documentation/Original_Technical_Specification.docx)
+- [Message template editor](./Documentation/qa-message-template-editor.docx)
