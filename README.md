@@ -36,15 +36,13 @@ Testing was performed after local environment setup using Node.js.
 ## Result
 Testing revealed logical defects in conditional execution and variable handling that affected message generation consistency.
 
-## QA Documentation
+## Test
 - [Test Strategy](./Test_Documentation/TestStrategy.md)
 - [Test Cases](./Test_Documentation/TestCases.md)
 - [Bug Reports](./Test_Documentation/BugReports.md)
 
-## Requirements
-- [Assignment Description](./Requirements/Assignment_Description.md)
-- [Technical Specification](./Requirements/Technical_Specification.md)
-
-## PDF
+## Documentation
 - [Original Technical Specification](./Documentation/Original_Technical_Specification.docx)
 - [Message template editor](./Documentation/message-template-editor.pdf)
+- [Assignment Description](./Requirements/Assignment_Description.md)
+- [Technical Specification](./Requirements/Technical_Specification.md)
