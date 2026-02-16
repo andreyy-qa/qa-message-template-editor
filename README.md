@@ -42,7 +42,7 @@ Testing revealed logical defects in conditional execution and variable handling 
 - [Bug Reports](./Test_Documentation/BugReports.md)
 - [Assignment Description](./Requirements/Assignment_Description.md)
 - [Technical Specification](./Requirements/Technical_Specification.md)
-- 
+  
 ## Documentation
 - [Original Technical Specification](./Documentation/Original_Technical_Specification.docx)
 - [Message template editor](./Documentation/message-template-editor.pdf)
